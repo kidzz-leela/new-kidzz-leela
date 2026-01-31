@@ -1,0 +1,98 @@
+{
+  "brandName": "KIDZZ LEELA",
+  "tagline": "Where Every Little One Shines ✨",
+  "logo": {
+    "icon": "🌱",
+    "logoImage": "../assets/logo.png",
+    "showText": true
+  },
+  "hero": {
+    "tagline": "Where kids love to be kids",
+    "heading": "Adorable Styles for Your Little Stars",
+    "subheading": "Discover playful, comfortable, and colorful clothing that lets kids be kids. Made with love for ages 0-6.",
+    "primaryButtonText": "Shop Collections",
+    "secondaryButtonText": "View Offers",
+    "backgroundImage": "/hero-bg.jpg"
+  },
+  "navigation": [
+    { "label": "Home", "path": "/" },
+    { "label": "Collections", "path": "/collections" },
+    { "label": "Offers", "path": "/offers" }
+  ],
+  "features": [
+    {
+      "icon": "🧸",
+      "title": "Soft & Comfy",
+      "description": "100% cotton and gentle fabrics for sensitive skin"
+    },
+    {
+      "icon": "🎨",
+      "title": "Fun Designs",
+      "description": "Vibrant colors and playful patterns kids love"
+    },
+    {
+      "icon": "💪",
+      "title": "Built to Last",
+      "description": "Durable stitching that survives playtime adventures"
+    },
+    {
+      "icon": "🌍",
+      "title": "Eco-Friendly",
+      "description": "Sustainable materials for a better tomorrow"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Savita M.",
+      "avatar": "👩",
+      "rating": 5,
+      "text": "My daughter absolutely loves her new dresses! The quality is amazing and the colors haven't faded after many washes.",
+      "childAge": "Mom of 5-year-old"
+    },
+    {
+      "name": "Mahesh",
+      "avatar": "👨",
+      "rating": 5,
+      "text": "Finally found clothes that are both stylish and durable enough for my active boys. Highly recommend!",
+      "childAge": "Dad of twins, age 6"
+    },
+    {
+      "name": "Anita",
+      "avatar": "👩‍🦰",
+      "rating": 5,
+      "text": "The infant collection is so soft and gentle. Perfect for my newborn's sensitive skin.",
+      "childAge": "Mom of 3-month-old"
+    }
+  ],
+  "footer": {
+    "copyright": "© 2026 KIDZZ LEELA. All rights reserved.",
+    "tagline": "Dressing little dreams since 2025",
+    "socialLinks": [
+      {
+        "platform": "Instagram",
+        "icon": "instagram",
+        "url": "https://www.instagram.com/kidzzleela"
+      },
+      {
+        "platform": "WhatsApp",
+        "icon": "whatsapp",
+        "url": "https://wa.me/9021670612"
+      }
+    ],
+    "contact": {
+      "email": "Maheshbokan27@gmail.com",
+      "phone": "+91 90216 70612",
+      "address": "Inside Siyaram's Shop, Ahir Complex, MG Road, Opp. Jindal \n Market, Jalna (MH) - 431203"
+    }
+  },
+  "newsletter": {
+    "heading": "Join the KIDZZ LEELA Family!",
+    "subheading": "Enjoy special savings on your first order + early access to new arrivals",
+    "buttonText": "Subscribe",
+    "placeholder": "Enter your email"
+  },
+  "whatsapp": {
+    "phone": "919021670612",
+    "messageTemplate": "Hello there, \nI'm interested in {productName} from KIDZZ LEELA. \nCould you please share more details like price, sizes, and availability? \n\nThank you!"
+  }
+}

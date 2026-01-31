@@ -1,0 +1,100 @@
+{
+  "bannerOffer": {
+    "title": "Bank Offer 💳",
+    "description": "Get 5% off on HDFC & SBI Credit Cards",
+    "code": "CARD05",
+    "active": true
+  },
+  "offers": [
+    {
+      "id": "offer-1",
+      "title": "On purchase of ₹5,100",
+      "description": "Get a FREE 999 pure silver coin with your purchase. A special festive gift for your little one.",
+      "discountPercentage": null,
+      "code": null,
+      "validUntil": null,
+      "limitedTime": true,
+      "active": true,
+      "comingSoon": false,
+      "badge": "💎 FREE Silver Coin",
+      "color": "lavender",
+      "tcApply": true,
+      "tcInfo": "Only one offer can be redeemed per purchase."
+    },
+    {
+      "id": "offer-2",
+      "title": "Wedding season special offer for your beloved babies",
+      "description": "Buy and get a pure silver coin – an auspicious and memorable gift.",
+      "discountPercentage": null,
+      "code": null,
+      "validUntil": null,
+      "limitedTime": true,
+      "active": true,
+      "comingSoon": false,
+      "badge": "👶 Special Gift",
+      "color": "secondary",
+      "tcApply": true,
+      "tcInfo": "Only one offer can be redeemed per purchase."
+    },
+    {
+      "id": "offer-3",
+      "title": "On purchase of ₹1,499/₹2,999",
+      "description": "Get an attractive gift FREE with your purchase. Limited time offer!",
+      "discountPercentage": null,
+      "code": null,
+      "validUntil": null,
+      "limitedTime": true,
+      "active": true,
+      "comingSoon": false,
+      "badge": "🎁 FREE Gift",
+      "color": "teal",
+      "tcApply": true,
+      "tcInfo": "Only one offer can be redeemed per purchase."
+    },
+    {
+      "id": "offer-4",
+      "title": "Sibling Discount",
+      "description": "Shopping for multiple kids? Get 15% off when you buy for 2+ children.",
+      "discountPercentage": 15,
+      "code": "SIBLINGS15",
+      "validUntil": "2026-12-31",
+      "limitedTime": true,
+      "active": false,
+      "comingSoon": false,
+      "badge": "👧👦 Family",
+      "color": "lavender",
+      "tcApply": true,
+      "tcInfo": "Only one offer can be redeemed per purchase."
+    },
+    {
+      "id": "offer-5",
+      "title": "Flash Friday",
+      "description": "Every Friday, enjoy an extra 10% off on already discounted items!",
+      "discountPercentage": 10,
+      "code": "FLASH10",
+      "validUntil": "2026-12-31",
+      "limitedTime": true,
+      "active": false,
+      "comingSoon": false,
+      "badge": "⚡ Weekly",
+      "color": "orange",
+      "tcApply": false,
+      "tcInfo": "Only one offer can be redeemed per purchase."
+    },
+    {
+      "id": "offer-6",
+      "title": "Birthday Club",
+      "description": "Sign up for our birthday club and receive a special 25% discount during your child's birthday month!",
+      "discountPercentage": 25,
+      "code": "BDAY25",
+      "validUntil": "2026-12-31",
+      "limitedTime": true,       
+      "active": false,
+      "comingSoon": false,
+      "badge": "🎂 Special",
+      "color": "primary",
+      "tcApply": true,
+      "tcInfo": "Only one offer can be redeemed per purchase."
+    }
+  ]
+}

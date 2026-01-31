@@ -1,0 +1,200 @@
+{
+  "categories": [
+    {
+      "id": "boys",
+      "name": "Boys Collection",
+      "description": "Cool and comfortable styles for adventurous boys",
+      "icon": "👦",
+      "color": "teal",
+      "featured": true,
+      "products": [
+        {
+          "id": "boys-1",
+          "name": "Little Gentleman Classic Suit Set",
+          "image": "https://res.cloudinary.com/dcwyt5wls/image/upload/v1769612537/WhatsApp_Image_2026-01-27_at_8.17.20_PM_tktdvj.jpg",
+          "colors": ["Blue", "Green", "Orange"],
+          "isNew": true,
+          "isBestSeller": false,
+          "sizeVariants": [
+            { "size": "S", "price": 1980, "originalPrice": 1980, "discountLabel": null },
+            { "size": "M", "price": 2020, "originalPrice": 2020, "discountLabel": null },
+            { "size": "L", "price": 2060, "originalPrice": 2060, "discountLabel": null },
+            { "size": "XL", "price": 2100, "originalPrice": 2100, "discountLabel": null },
+            { "size": "XXL", "price": 2140, "originalPrice": 2140, "discountLabel": null }            
+          ]
+        },
+        {
+          "id": "boys-2",
+          "name": "FITOUT Royal Prince Blazer Set",
+          "image": "https://res.cloudinary.com/dcwyt5wls/image/upload/v1769612560/WhatsApp_Image_2026-01-27_at_8.17.20_PM_1_dipro4.jpg",
+          "colors": ["Navy", "Gray", "Black"],
+          "isNew": true,
+          "isBestSeller": false,
+          "sizeVariants": [
+            { "size": "S", "price": 2090, "originalPrice": 2090, "discountLabel": null },
+            { "size": "M", "price": 2130, "originalPrice": 2130, "discountLabel": null },
+            { "size": "L", "price": 2170, "originalPrice": 2170, "discountLabel": null },
+            { "size": "XL", "price": 2210, "originalPrice": 2210, "discountLabel": null },
+            { "size": "XXL", "price": 2250, "originalPrice": 2250, "discountLabel": null },
+            { "size": "XXXL", "price": 2290, "originalPrice": 2290, "discountLabel": null }
+          ]
+        },
+        {
+          "id": "boys-3",
+          "name": "SKYLO Little Champ Casual Party Set",
+          "image": "https://res.cloudinary.com/dcwyt5wls/image/upload/v1769621221/WhatsApp_Image_2026-01-28_at_10.56.26_PM_dqhqcd.jpg",
+          "colors": ["Khaki", "Navy", "Olive"],
+          "isNew": true,
+          "isBestSeller": false,
+          "sizeVariants": [
+            { "size": "0", "price": 2200, "originalPrice": 2200, "discountLabel": null },
+            { "size": "1", "price": 2230, "originalPrice": 2230, "discountLabel": null },
+            { "size": "2", "price": 2260, "originalPrice": 2260, "discountLabel": null },
+            { "size": "3", "price": 2290, "originalPrice": 2290, "discountLabel": null },
+            { "size": "4", "price": 2320, "originalPrice": 2320, "discountLabel": null }
+          ]
+        },
+        {
+          "id": "boys-4",
+          "name": "MINTU Little Nawab Ethnic Blazer Outfit",
+          "image": "https://res.cloudinary.com/dcwyt5wls/image/upload/v1769671271/WhatsApp_Image_2026-01-29_at_10.07.36_AM_froq81.jpg",
+          "colors": ["Red/White", "Blue/White", "Green/White"],
+          "isNew": true,
+          "isBestSeller": false,
+          "sizeVariants": [
+            { "size": "0", "price": 3120, "originalPrice": 3120, "discountLabel": null },
+            { "size": "1", "price": 3170, "originalPrice": 3170, "discountLabel": null },
+            { "size": "2", "price": 3220, "originalPrice": 3220, "discountLabel": null } 
+          ]
+        }
+      ]
+    },
+    {
+      "id": "girls",
+      "name": "Girls Collection",
+      "description": "Sparkly, fun, and fabulous outfits for little princesses",
+      "icon": "👧",
+      "color": "primary",
+      "featured": true,
+      "products": [
+        {
+          "id": "girls-1",
+          "name": "JALARAM Midnight Princess Gown",
+          "image": "https://res.cloudinary.com/dcwyt5wls/image/upload/v1769613208/IMG_7140.JPG_hmaeum.jpg",
+          "colors": ["Rainbow", "Pink", "Purple"],
+          "isNew": true,
+          "isBestSeller": false,
+          "sizeVariants": [
+            { "size": "20", "price": 3020, "originalPrice": 3020, "discountLabel": null },
+            { "size": "22", "price": 3105,  "originalPrice": 3105, "discountLabel": null },
+            { "size": "24", "price": 3190, "originalPrice": 3190, "discountLabel": null },
+            { "size": "26", "price": 3275, "originalPrice": 3275, "discountLabel": null },
+            { "size": "28", "price": 3360, "originalPrice": 3360, "discountLabel": null },
+            { "size": "30", "price": 3445, "originalPrice": 3445, "discountLabel": null }
+          ]
+        },
+        {
+          "id": "girls-2",
+          "name": "Babes & Dolls Fairy Flair Layered Dress",
+          "image": "https://res.cloudinary.com/dcwyt5wls/image/upload/v1769621511/WhatsApp_Image_2026-01-28_at_11.01.06_PM_kvhpv8.jpg",
+          "colors": ["Pink Floral", "Blue Floral", "Yellow Floral"],
+          "isNew": true,
+          "isBestSeller": false,
+          "sizeVariants": [
+            { "size": "18", "price": 1640, "originalPrice": 1640, "discountLabel": null },
+            { "size": "20", "price": 1650, "originalPrice": 1650, "discountLabel": null },
+            { "size": "22", "price": 1660, "originalPrice": 1660, "discountLabel": null },
+            { "size": "24", "price": 1670, "originalPrice": 1670, "discountLabel": null },
+            { "size": "26", "price": 1680, "originalPrice": 1680, "discountLabel": null }
+          ]
+        },
+        {
+          "id": "girls-3",
+          "name": "Princess Grace Ethnic Flare Dress",
+          "image": "https://res.cloudinary.com/dcwyt5wls/image/upload/v1769661722/WhatsApp_Image_2026-01-29_at_10.07.30_AM_u5gfap.jpg",
+          "colors": ["White", "Pink", "Lavender"],
+          "isNew": true,
+          "isBestSeller": false,
+          "sizeVariants": [
+            { "size": "16", "price": 2320, "originalPrice": 2320, "discountLabel": null },
+            { "size": "18", "price": 2360, "originalPrice": 2360, "discountLabel": null },
+            { "size": "20", "price": 2400, "originalPrice": 2400, "discountLabel": null },
+            { "size": "22", "price": 2440, "originalPrice": 2440, "discountLabel": null }
+          ]
+        },
+        {
+          "id": "girls-4",
+          "name": "Dear Girl Ethnic Charm Palazzo Dress",
+          "image": "https://res.cloudinary.com/dcwyt5wls/image/upload/v1769670290/WhatsApp_Image_2026-01-29_at_10.07.31_AM_cyglau.jpg",
+          "colors": ["Cream", "Blush", "Mint"],
+          "isNew": true,
+          "isBestSeller": false,
+          "sizeVariants": [
+            { "size": "16", "price": 2299, "originalPrice": 2299, "discountLabel": null },
+            { "size": "18", "price": 2340, "originalPrice": 2340, "discountLabel": null },
+            { "size": "20", "price": 2380, "originalPrice": 2380, "discountLabel": null },
+            { "size": "22", "price": 2420, "originalPrice": 2420, "discountLabel": null },
+            { "size": "24", "price": 2460, "originalPrice": 2460, "discountLabel": null },
+            { "size": "26", "price": 2500, "originalPrice": 2500, "discountLabel": null } 
+          ]
+        }
+      ]
+    },
+    {
+      "id": "newborn",
+      "name": "New Born Collection",
+      "description": "Super soft essentials for your precious little ones",
+      "icon": "👶",
+      "color": "lavender",
+      "featured": true,
+      "products": [
+        {
+          "id": "newborn-1",
+          "name": "Mini Soul Insulated Baby Milk Bottle",
+          "image": "https://res.cloudinary.com/dcwyt5wls/image/upload/v1769622091/WhatsApp_Image_2026-01-28_at_11.07.23_PM_1_a6mry7.jpg",
+          "colors": ["White", "Cream", "Sage"],
+          "isNew": true,
+          "isBestSeller": true,
+          "sizeVariants": [
+            { "size": "220ml", "price": 450, "originalPrice": 450, "discountLabel": null },
+            { "size": "150ml", "price": 399, "originalPrice": 399, "discountLabel": null }
+          ]
+        },
+        {
+          "id": "newborn-2",
+          "name": "Mini Soul Baby Handle Sipper Bottle",
+          "image": "https://res.cloudinary.com/dcwyt5wls/image/upload/v1769622089/WhatsApp_Image_2026-01-28_at_11.07.23_PM_2_g6kuxn.jpg",
+          "colors": ["Pink", "Gray", "White"],
+          "isNew": true,
+          "isBestSeller": false,
+          "sizeVariants": [
+            { "size": null, "price": 499, "originalPrice": 499, "discountLabel": null }           
+          ]
+        },
+        {
+          "id": "newborn-3",
+          "name": "HOOPA 2-in-1 Infant Carrier Pink | Infant Carrier",
+          "image": "https://res.cloudinary.com/dcwyt5wls/image/upload/v1769671908/shopping_z3kwdt.webp",
+          "colors": ["Stars", "Clouds", "Animals"],
+          "isNew": true,
+          "isBestSeller": false,
+          "sizeVariants": [
+            { "size": null, "price": 1299, "originalPrice": 1299, "discountLabel": null }             
+          ]
+        },
+        {
+          "id": "newborn-4",
+          "name": "First Steps Booties",
+          "image": "https://images.unsplash.com/photo-1471286174890-9c112ffca5b4?w=400&h=400&fit=crop",
+          "colors": ["Cream", "Gray", "Brown"],
+          "isNew": true,
+          "isBestSeller": true,
+          "sizeVariants": [
+            { "size": "0-6M", "price": 17.99, "originalPrice": null, "discountLabel": null },
+            { "size": "6-12M", "price": 18.99, "originalPrice": null, "discountLabel": null }
+          ]
+        }
+      ]
+    }
+  ]
+}
