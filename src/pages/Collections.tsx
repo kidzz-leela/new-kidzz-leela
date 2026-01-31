@@ -1,4 +1,4 @@
-// trigger build again
+// trigger build again try
 import { useState } from 'react';
 import ProductCard from '@/components/ProductCard';
 import collectionsData from '@/config/collections.json';
