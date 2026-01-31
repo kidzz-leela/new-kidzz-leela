@@ -62,9 +62,9 @@
           "isNew": true,
           "isBestSeller": false,
           "sizeVariants": [
-            { "size": "0", "price": 3120, "originalPrice": 3120, "discountLabel": null },
-            { "size": "1", "price": 3170, "originalPrice": 3170, "discountLabel": null },
-            { "size": "2", "price": 3220, "originalPrice": 3220, "discountLabel": null } 
+            { "size": "0", "price": 3680, "originalPrice": 3680, "discountLabel": null },
+            { "size": "1", "price": 3730, "originalPrice": 3730, "discountLabel": null },
+            { "size": "2", "price": 3780, "originalPrice": 3780, "discountLabel": null } 
           ]
         }
       ]
@@ -184,14 +184,15 @@
         },
         {
           "id": "newborn-4",
-          "name": "First Steps Booties",
-          "image": "https://images.unsplash.com/photo-1471286174890-9c112ffca5b4?w=400&h=400&fit=crop",
+          "name": "Mash UP baby Khaki",
+          "image": "https://res.cloudinary.com/dcwyt5wls/image/upload/v1769876745/WhatsApp_Image_2026-01-31_at_8.42.56_PM_ohtesl.jpg",
           "colors": ["Cream", "Gray", "Brown"],
           "isNew": true,
           "isBestSeller": true,
           "sizeVariants": [
-            { "size": "0-6M", "price": 17.99, "originalPrice": null, "discountLabel": null },
-            { "size": "6-12M", "price": 18.99, "originalPrice": null, "discountLabel": null }
+            { "size": "L", "price": 1325, "originalPrice": 1325, "discountLabel": null },
+            { "size": "M", "price": 1305, "originalPrice": 1305, "discountLabel": null },
+            { "size": "XL", "price": 1345, "originalPrice": 1345, "discountLabel": null }
           ]
         }
       ]
