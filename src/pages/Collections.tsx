@@ -1,4 +1,4 @@
-// trigger build again try once more
+// created a branch
 import { useState } from 'react';
 import ProductCard from '@/components/ProductCard';
 import collectionsData from '@/config/collections.json';
