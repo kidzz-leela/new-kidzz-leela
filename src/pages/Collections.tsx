@@ -1,4 +1,4 @@
-// trigger
+// trigger build
 import { useState } from 'react';
 import ProductCard from '@/components/ProductCard';
 import collectionsData from '@/config/collections.json';
